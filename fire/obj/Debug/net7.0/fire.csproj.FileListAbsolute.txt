@@ -1,0 +1,15 @@
+/Users/marfachornaya/Projects/fire/fire/bin/Debug/net7.0/fire
+/Users/marfachornaya/Projects/fire/fire/bin/Debug/net7.0/fire.deps.json
+/Users/marfachornaya/Projects/fire/fire/bin/Debug/net7.0/fire.runtimeconfig.json
+/Users/marfachornaya/Projects/fire/fire/bin/Debug/net7.0/fire.dll
+/Users/marfachornaya/Projects/fire/fire/bin/Debug/net7.0/fire.pdb
+/Users/marfachornaya/Projects/fire/fire/obj/Debug/net7.0/fire.csproj.AssemblyReference.cache
+/Users/marfachornaya/Projects/fire/fire/obj/Debug/net7.0/fire.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marfachornaya/Projects/fire/fire/obj/Debug/net7.0/fire.AssemblyInfoInputs.cache
+/Users/marfachornaya/Projects/fire/fire/obj/Debug/net7.0/fire.AssemblyInfo.cs
+/Users/marfachornaya/Projects/fire/fire/obj/Debug/net7.0/fire.csproj.CoreCompileInputs.cache
+/Users/marfachornaya/Projects/fire/fire/obj/Debug/net7.0/fire.dll
+/Users/marfachornaya/Projects/fire/fire/obj/Debug/net7.0/refint/fire.dll
+/Users/marfachornaya/Projects/fire/fire/obj/Debug/net7.0/fire.pdb
+/Users/marfachornaya/Projects/fire/fire/obj/Debug/net7.0/fire.genruntimeconfig.cache
+/Users/marfachornaya/Projects/fire/fire/obj/Debug/net7.0/ref/fire.dll
